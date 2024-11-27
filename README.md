@@ -4,9 +4,26 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,materialui,kotlin,py,postgres,linux,mysql,nodejs,postman,vscode,git,github,&perline=14" />
-  </a>
-</p>
+
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,py,&perline=14" />
+  
+</span>
+
+<h4> Frameworks </h4>
+<span>
+  <img src="https://skillicons.dev/icons?i=angular,react,materialui,bootstrap,spring,&perline=14" />
+</span>
+
+<h4> Databases </h4>
+<span>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,&perline=14" />
+</span>
+
+<h4> IDE </h4>
+<span>
+      <img src="https://skillicons.dev/icons?i=idea,vscode,sublime,&perline=14" />
+</span>
