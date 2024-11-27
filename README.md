@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Hi!! I’m Pedro, I’m 25 years old and I’m from Buenos Aires… I live in Villa Devoto. I’m currently studying at UNSAM, going through the last year of my major - Computer Programming Technician. 
+Hi!! I’m Pedro, I’m 25 years old and I’m from Buenos Aires. I’m currently studying at UNSAM, going through the last year of my major - Computer Programming Technician. 
 
 <h4> Languages </h4>
 <span> 
