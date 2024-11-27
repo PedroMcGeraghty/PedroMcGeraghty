@@ -2,7 +2,15 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Hi!! I’m Pedro, I’m 25 years old and I’m from Buenos Aires. I’m currently studying at UNSAM, going through the last year of my major - Computer Programming Technician. 
+Hi!! I’m Pedro, I’m 25 years old and I’m from Buenos Aires.  
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I’m currently studying at UNSAM, going through the last year of my major - Computer Programming Technician.\
+🌱 &nbsp;I'm on track for learning more about Web Design and Development,  and Application Architecture.\
+✍️ &nbsp;In my free time, I like skateboarding and practicing windsurf when I get the chance..\
+
+<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
+
 
 <h4> Languages </h4>
 <span> 
