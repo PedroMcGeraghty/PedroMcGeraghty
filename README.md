@@ -14,7 +14,9 @@ Hi!! I’m Pedro, I’m 25 years old and I’m from Buenos Aires.
 
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-<h2>Knowledge Base :hammer_and_wrench:</h2>
+<h2 align="center">Knowledge Base :hammer_and_wrench:</h2>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroMcGeraghty&show_icons=true&locale=en&layout=compact" alt="PedroMcGeraghty" /></p>
 
 <h4> Languages </h4>
 <span> 
@@ -37,9 +39,9 @@ Hi!! I’m Pedro, I’m 25 years old and I’m from Buenos Aires.
 </span>
 <br>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-[![](https://github-readme-stats.vercel.app/api?username=PedroMcGeraghty&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/PedroMcGeraghty)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=PedroMcGeraghty&theme=tokyonight&hide_border=true)](https://github.com/PedroMcGeraghty)
-</div>
+    
+
+
+
 
 
